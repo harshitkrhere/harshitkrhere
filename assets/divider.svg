@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 18" role="img" aria-label="Animated cyan divider">
+  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 9H1200" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="0" cy="9" r="3" fill="#67e8f9"><animate attributeName="cx" from="0" to="1200" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="1200" cy="9" r="2" fill="#a7f3d0"><animate attributeName="cx" from="1200" to="0" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
