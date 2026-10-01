@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/harshitkrhere">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=180&section=header&text=Harshit%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Animated blue futuristic header" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:06b6d4&height=210&section=header&text=Harshit%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Animated teal futuristic header" width="100%" />
 </a>
 
 # Hey, I'm **Harshit Kumar** 👋
@@ -10,7 +10,7 @@
 
 **Products · communities · open source · good ideas**
 
-<a href="https://github.com/harshitkrhere"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Product+strategy+%7C+Lifecycle+management;Building+cool+things+from+zero+to+one;Studying+accounts%2C+shipping+ideas" alt="Animated introduction" /></a>
+<a href="https://github.com/harshitkrhere"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Product+strategy+%7C+Lifecycle+management;Building+cool+things+from+zero+to+one;Studying+accounts%2C+shipping+ideas;Turning+curiosity+into+working+products" alt="Animated introduction" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-3a1095395/)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@harshitkrhere)
@@ -59,6 +59,10 @@ Explore more of my work in the [repositories](https://github.com/harshitkrhere?t
 <br />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkrhere&layout=compact&hide_border=true&theme=tokyonight" alt="Harshit Kumar's most used languages" />
+
+<br /><br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkrhere&bg_color=0b1120&color=67e8f9&line=22d3ee&point=f8fafc&area=true&hide_border=true" alt="Harshit Kumar's animated GitHub activity graph" />
 
 </div>
 
