@@ -1,136 +1,81 @@
 <div align="center">
 
-<!-- HERO SECTION: Dynamic, Futuristic, Overwhelming Visuals -->
 <a href="https://github.com/harshitkrhere">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0891b2&height=250&section=header&text=Harshit%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Founder%20•%20Product%20Manager%20•%20Builder&descSize=20&descAlignY=70" alt="Harshit Kumar Header" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=180&section=header&text=Harshit%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Animated blue futuristic header" width="100%" />
 </a>
 
-<br><br>
+# Hey, I'm **Harshit Kumar** 👋
 
-<!-- TYPING ANIMATION: Sleek & Modern -->
-<a href="https://github.com/harshitkrhere">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&height=50&lines=Building+Products+from+Zero+to+One;Architecting+Digital+Communities;Fusing+Business+Logic+with+Web+Products;Shipping+Thoughtful+Experiences;Studying+Accounts,+Engineering+Growth" alt="Typing SVG" />
-</a>
+### I build things that should exist.
 
-<br><br>
+**Products · communities · open source · good ideas**
 
-<!-- SOCIAL LINKS: Minimalist Badges -->
-<a href="https://www.linkedin.com/in/harshit-kumar-3a1095395/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0891B2" alt="LinkedIn" /></a>
-<a href="https://x.com/harshitkrhere"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=0891B2" alt="X" /></a>
-<a href="https://www.youtube.com/@harshitkrhere"><img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=0891B2" alt="YouTube" /></a>
-<a href="https://www.instagram.com/harshithere.osw/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=0891B2" alt="Instagram" /></a>
+<a href="https://github.com/harshitkrhere"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Product+strategy+%7C+Lifecycle+management;Building+cool+things+from+zero+to+one;Studying+accounts%2C+shipping+ideas" alt="Animated introduction" /></a>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-3a1095395/)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@harshitkrhere)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/harshitkrhere)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harshithere.osw/)
 
 </div>
 
-<!-- ABOUT ME: Grid Layout / Card Illusion -->
-<table width="100%" align="center">
-    <tr>
-        <td width="50%" valign="top">
-            <h2 align="center">🧠 The Mindset</h2>
-            <br>
-            <p align="center">
-                I am a <b>Founder and Product Manager</b> obsessed with the intersection of strategy and execution. My core drive is transforming raw ideas into polished, functional realities that solve actual problems.
-            </p>
-            <p align="center">
-                Beyond building, I am diving deep into accounting and business fundamentals—believing that strong financial architecture is the backbone of superior product design.
-            </p>
-        </td>
-        <td width="50%" valign="top">
-            <h2 align="center">⚙️ Core Competencies</h2>
-            <br>
-            <div align="center">
-                <img src="https://img.shields.io/badge/Product_Strategy-000000?style=for-the-badge&logo=target&logoColor=0891B2" />
-                <img src="https://img.shields.io/badge/Lifecycle_Mgt-000000?style=for-the-badge&logo=googleanalytics&logoColor=0891B2" />
-                <img src="https://img.shields.io/badge/UX/UI_Direction-000000?style=for-the-badge&logo=figma&logoColor=0891B2" />
-                <br><br>
-                <img src="https://img.shields.io/badge/Community_Building-000000?style=for-the-badge&logo=webauthn&logoColor=0891B2" />
-                <img src="https://img.shields.io/badge/Business_Logic-000000?style=for-the-badge&logo=microstrategy&logoColor=0891B2" />
-            </div>
-        </td>
-    </tr>
-</table>
+---
 
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</div>
-<br>
+## ⚡ A little about me
 
-<!-- PROJECTS: Visual Grid Representation -->
-<h2 align="center">🚀 Flagship Ventures</h2>
-<br>
+I like taking ideas from a blank page to something real, useful, and a little unexpected. I’m building products, growing communities, and learning the business side of making good things last. Currently studying accounts, exploring product strategy, and shipping whatever I can’t stop thinking about.
 
-<table width="100%" align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top">
-        <a href="https://mybuddymaid.in">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitkrhere&repo=harshitkrhere&theme=radical&bg_color=000000&title_color=0891B2&text_color=ffffff&border_color=0891B2" alt="MyBuddyMaid" />
-        </a>
-        <br>
-        <i>Simplifying everyday services with a human-centric product approach.</i>
-    </td>
-    <td width="50%" align="center" valign="top">
-        <a href="https://decembercode.in">
-             <img src="https://github-readme-stats.vercel.app/api/pin/?username=opensourcewinter&repo=december-code&theme=radical&bg_color=000000&title_color=0891B2&text_color=ffffff&border_color=0891B2" alt="December Code" />
-        </a>
-        <br>
-        <i>A digital space turning abstract concepts into usable, memorable web artifacts.</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-        <br>
-        <a href="https://spiretrack.app">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitkrhere&repo=spiretrack&theme=radical&bg_color=000000&title_color=0891B2&text_color=ffffff&border_color=0891B2" alt="SpireTrack" />
-        </a>
-        <br>
-        <i>An experimental product focused on clarity, progression, and orientation.</i>
-    </td>
-    <td width="50%" align="center" valign="top">
-        <br>
-        <a href="https://github.com/opensourcewinter">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=opensourcewinter&repo=Open-Source-Winter&theme=radical&bg_color=000000&title_color=0891B2&text_color=ffffff&border_color=0891B2" alt="Open Source Winter" />
-        </a>
-        <br>
-        <i>Fostering an open-source ecosystem for collaborative learning and building.</i>
-    </td>
-  </tr>
-</table>
+`Currently building`  **MyBuddyMaid · December Code · SpireTrack**<br />
+`Currently learning`  **Product systems · accounting · making ideas clearer**
 
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-</div>
-<br>
+## 🧩 Things I care about
 
-<!-- METRICS: Sleek Dark Mode Stats -->
-<h2 align="center">📈 Analytics & Impact</h2>
-<br>
+| Area | Technologies |
+| --- | --- |
+| **Make** | ![Product Strategy](https://img.shields.io/badge/Product_Strategy-0891B2?style=flat&logo=target&logoColor=white) ![Web Products](https://img.shields.io/badge/Web_Products-111827?style=flat&logo=googlechrome&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat&logo=github&logoColor=white) |
+| **Explore** | ![Community](https://img.shields.io/badge/Community-7C3AED?style=flat&logo=webauthn&logoColor=white) ![Accounting](https://img.shields.io/badge/Accounting-166534?style=flat&logo=bookstack&logoColor=white) ![Business](https://img.shields.io/badge/Business-92400E?style=flat&logo=googleanalytics&logoColor=white) |
+| **Energy** | Curiosity, momentum, clean ideas, and the occasional beautifully over-engineered side project. |
+
+> I’m interested in the space where a good idea becomes a thing people actually want to use.
+
+## 🚀 Things I’m building
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[MyBuddyMaid](https://mybuddymaid.in)** | A product I’m shaping from a blank page into a simpler, more human everyday experience. | `Product` `Web` |
+| **[December Code](https://decembercode.in)** | A space for ideas, experiments, and people who like making things happen. | `Community` `Experiments` |
+| **[SpireTrack](https://spiretrack.app)** | A focused product experiment for staying clear, moving forward, and keeping momentum. | `Product` `Web app` |
+| **[Open Source Winter](https://github.com/opensourcewinter)** | An open-source community for learning in public, contributing, and building together. | `Open source` `Community` |
+
+Explore more of my work in the [repositories](https://github.com/harshitkrhere?tab=repositories).
+
+## 📊 GitHub Activity
 
 <div align="center">
-    <a href="https://github.com/harshitkrhere">
-        <img src="https://github-readme-stats.vercel.app/api?username=harshitkrhere&show_icons=true&hide_border=true&title_color=0891B2&icon_color=0891B2&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/harshitkrhere">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkrhere&hide_border=true&theme=radical&background=000000&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&dates=ffffff&labels=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="48%" />
-    </a>
-    
-    <br><br>
-    
-    <a href="https://github.com/harshitkrhere">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkrhere&layout=compact&hide_border=true&title_color=0891B2&text_color=ffffff&bg_color=000000" alt="Top Languages" width="50%" />
-    </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitkrhere&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Harshit Kumar's GitHub statistics" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkrhere&hide_border=true&theme=tokyonight" alt="Harshit Kumar's GitHub contribution streak" />
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkrhere&layout=compact&hide_border=true&theme=tokyonight" alt="Harshit Kumar's most used languages" />
+
 </div>
 
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
-<br><br>
+## 🌐 Find me around the internet
 
-<h3>✦ Build Thoughtfully • Learn Continuously • Ship Fast ✦</h3>
+I’m usually building something, learning something, or turning a half-formed idea into a link.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-3a1095395/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@harshitkrhere)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/harshitkrhere)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harshithere.osw/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshitkrhere)
+
+---
+
+<div align="center">
+
+**Stay curious. Make something real.**
 
 </div>
