@@ -28,6 +28,47 @@ I like taking ideas from a blank page to something real, useful, and a little un
 `Currently building`  **MyBuddyMaid · December Code · SpireTrack**<br />
 `Currently learning`  **Product systems · accounting · making ideas clearer**
 
+## 🛰️ Live from my build console
+
+```text
+	HARSHIT.OS / BUILD MODE
+	-----------------------
+	signal       ideas -> products
+	stack        curiosity + momentum
+	status       shipping in public
+
+	[ OK ] MyBuddyMaid     shaping the experience
+	[ OK ] December Code   making space for ideas
+	[ .. ] SpireTrack      keeping momentum visible
+	[ ON ] Open Source     building together
+
+	$ make something-real
+	> done is better than waiting for perfect
+```
+
+## ✦ Project previews
+
+<table>
+	<tr>
+		<td align="center" width="25%">
+			<a href="https://mybuddymaid.in"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0891b2&height=90&text=MyBuddyMaid&fontSize=18&fontColor=ffffff&animation=twinkling" alt="MyBuddyMaid preview" width="100%" /></a>
+			<br /><sub>Make everyday services feel human.</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="https://decembercode.in"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:7c3aed&height=90&text=December%20Code&fontSize=18&fontColor=ffffff&animation=twinkling" alt="December Code preview" width="100%" /></a>
+			<br /><sub>Ideas, experiments, and people.</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="https://spiretrack.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:2563eb&height=90&text=SpireTrack&fontSize=18&fontColor=ffffff&animation=twinkling" alt="SpireTrack preview" width="100%" /></a>
+			<br /><sub>Clarity for the next move.</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="https://github.com/opensourcewinter"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,100:16a34a&height=90&text=Open%20Source%20Winter&fontSize=18&fontColor=ffffff&animation=twinkling" alt="Open Source Winter preview" width="100%" /></a>
+			<br /><sub>Learn in public. Build together.</sub>
+		</td>
+	</tr>
+</table>
+
 ## 🧩 Things I care about
 
 | Area | Technologies |
